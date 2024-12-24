@@ -1,0 +1,10 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: Times, sans-serif;
+    background: #86658c;
+    color: #1c191d;
+    font-size: 3rem;
+  }
